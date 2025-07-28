@@ -53,6 +53,8 @@ Philosophy: Simple solutions for complex problems
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-FF6F00?style=for-the-badge&logo=google&logoColor=white)
+![Jules](https://img.shields.io/badge/Jules-0057B7?style=for-the-badge&logo=data&logoColor=white)
 
 </div>
 
