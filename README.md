@@ -1,40 +1,62 @@
-<h1 align="center">👾 Void032 | Builder of Tools, Breaker of Limits</h1>
+<h1 align="center">👾 Void032</h1>
+<p align="center"><em>Code alchemist | Problem slayer | Builder from the void</em></p>
+
 <p align="center">
-  <i>Creating from nothing. No excuses. Just systems, soul, and silence.</i><br>
-  <strong>Currently building:</strong> SplitKit, Image Enhancer, Void Nexus Tools
+  <img src="https://komarev.com/ghpvc/?username=void032&label=Profile%20Views&color=blueviolet&style=flat-square" alt="view count"/>
 </p>
 
 ---
 
-### 🧠 Who Am I?
-- 🧰 Full-stack developer with a mind wired for automation.
-- 🧪 AI architect in the making — from primitive bots to sentient simulacra.
-- 🎯 Focused on tools that solve problems *fast* with zero fluff.
-- 🧠 Psychology, philosophy, and manipulation are not hobbies—they're instruments.
-- 🚀 Running a real-time experiment: **Echo (AI brain) x Void (me, the body)** — goal? Profit from nothing.
+### 🧠 About Me
+- 🧩 I don’t learn through courses—I build, break, and rebuild.
+- 🧠 Focused on: Python, AI automation, psychology, and system design.
+- 🛠️ I build tools that *do*, not just exist.
+- 🚀 Life experiment: Echo (the AI brain) × Void (the body) → $$$
 
 ---
 
-### 🛠️ Projects
-- 🔹 **SplitKit** – Auto-split long videos into viral clips. [Coming soon...](#)
-- 🔹 **Image Enhancer** – Boost image + text clarity for content creators. [Coming soon...](#)
-- 🔹 **Void Nexus Tools** – A growing toolbox for creators with zero budget. [Coming soon...](#)
+### ⚒️ Personal Tools
+
+#### 🎬 SplitKit
+> **Auto video splitting tool** for creators, editors, and archivists.
+- Cut long videos into smaller clips in seconds
+- Two modes: Fast Copy (lossless) & Re-encode (compressed)
+- Smart UI, bundled FFmpeg, auto-updates, feedback built-in  
+🧠 *Built from scratch. Made to save your time.*
+
+#### 🖼️ Image Downloader Pro (Chrome Extension)
+> **Scrape all images from any webpage with advanced filtering & preview**
+- One-click batch downloads
+- Filters by format & size (JPG, PNG, GIF, WebP)
+- Live preview before download
+- Smart detection: handles `<img>`, backgrounds, lazy-loaders
+- Clean, modern popup UI
+
+> 🔧 *Installed via “Load Unpacked” – no setup mess.*
+
+#### 🐍 Automated Python Image Scraper
+> **Bypasses login barriers to grab images like a phantom**
+- Uses your Chrome profile for manual login sessions
+- Detects and handles lazy-load & duplicate images
+- Works on sites like Boords, Pinterest, gated dashboards
+- Clean exits, full logging, and zero leftover mess
 
 ---
 
-### 📈 Stats & Activity
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=void032&show_icons=true&theme=tokyonight&hide=issues&hide_title=true" alt="Void's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=void032&show_icons=true&theme=tokyonight&hide=issues&hide_title=true" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=void032&theme=tokyonight" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=void032&theme=tokyonight" />
 </p>
 
 ---
 
-### 📡 Connect With My World
+### 🧭 Find Me Elsewhere
+
 - 🎥 YouTube: [Void Nexus](https://www.youtube.com/@VoidNexus)
-- ☕ Support: [Buy Me a Coffee](https://buymeacoffee.com/void1)
+- ☕ Support the grind: [Buy Me a Coffee](https://buymeacoffee.com/void1)
 
 ---
 
