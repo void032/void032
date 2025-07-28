@@ -19,7 +19,7 @@ I'm a full-stack developer passionate about leveraging AI and automation to buil
 
 ```yaml
 Current Focus: AI-powered automation & full-stack development
-Location: Building the future, one commit at a time
+Location: Usually behind a screen
 Philosophy: Simple solutions for complex problems
 ```
 
@@ -63,7 +63,7 @@ Philosophy: Simple solutions for complex problems
 ### 🎬 SplitKit – Video Auto-Splitter
 **Desktop Application | Python + PyQt6**
 
-A professional video processing tool that automatically cuts long videos into optimized short clips.
+ A smart desktop tool that auto-splits long videos — optimized for speed and quality.
 
 **Key Features:**
 - ⚡ **Dual Processing Modes** – Fast Copy (lossless) & Re-encode options
@@ -122,7 +122,7 @@ Headless browser automation for downloading images from authentication-required 
 
 ---
 
-## 🎯 Current Focus Areas
+## 🔭 Currently Exploring
 
 ```mermaid
 graph LR
@@ -145,7 +145,7 @@ graph LR
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vineet-kumar-2ab15217b)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/void032)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vineetkumar1639@gmail.com)
 
 </div>
 
