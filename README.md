@@ -38,7 +38,7 @@
 
 I'm a full-stack developer who bridges the gap between **practical utility** and **visual craft**. Whether it's a desktop video splitter, a browser shader studio, or an AI automation pipeline — I focus on shipping polished, performant tools.
 
-```yaml
+
 name: Vineet Kumar
 alias: void032
 focus:    [Full-Stack, AI Automation, GLSL/3D, Developer Tools]
@@ -245,4 +245,3 @@ src/
   </p>
   <img src="https://komarev.com/ghpvc/?username=void032&label=Profile%20Views&color=58a6ff&style=flat-square" alt="Profile Views" />
 </div>
-```
