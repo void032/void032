@@ -1,42 +1,176 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=void&fontSize=90&fontColor=58a6ff&animation=fadeIn&fontAlignY=40&desc=creative%20developer%20%2F%20cinematic%203d%20web%20%2F%20glsl%20shaders&descAlignY=62&descSize=18&descColor=8b949e" />
-</div>
+<!-- 
+  ╔══════════════════════════════════════════════════════════╗
+  ║  Profile README — Vineet Kumar (void032)                ║
+  ║  Modern Dark Aesthetic | Shader Studio Flagship         ║
+  ╚══════════════════════════════════════════════════════════╝
+-->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Creative+3D+Developer;GLSL+Shader+Author;Cinematic+Web+Experiences;Three.js+%C2%B7+R3F+%C2%B7+GSAP+%C2%B7+GLSL;Multi-Agent+AI+Workflows" alt="Typing SVG" />
+
+  <!-- VOID Header -->
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1f2e,100:0d1117&height=200&section=header&text=VOID&fontSize=90&fontColor=58a6ff&animation=fadeIn&fontAlignY=55&desc=Vineet%20Kumar%20%E2%80%94%20Full-Stack%20Developer&descSize=16&descAlignY=78&descColor=8b949e" />
+
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=2000&color=58A6FF&center=true&vCenter=true&width=500&lines=Writing+shaders+%26+building+tools;3D+web+%7C+AI+integration+%7C+automation;React+%C2%B7+Three.js+%C2%B7+Python+%C2%B7+Django;Ship+first%2C+polish+later." alt="Typing SVG" />
+
+  <br/>
+
+  <!-- Top Badges -->
+  <img src="https://komarev.com/ghpvc/?username=void032&style=for-the-badge&color=161b22&label=PROFILE+VIEWS&labelColor=0d1117" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/void032?style=for-the-badge&color=161b22&logo=github&logoColor=58a6ff&label=FOLLOWERS&labelColor=0d1117" />
+  &nbsp;
+  <a href="https://shader-studio-teal.vercel.app">
+    <img src="https://img.shields.io/badge/Shader%20Studio-Live%20Demo-2DD4BF?style=for-the-badge&color=161b22&logo=threedotjs&logoColor=2DD4BF&labelColor=0d1117" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/void032">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&color=161b22&logo=linkedin&logoColor=0077B5&labelColor=0d1117" />
+  </a>
+
 </div>
 
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:2DD4BF,100:0d1117&height=1"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=void032&label=Profile%20Views&color=58a6ff&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/void032?label=Followers&style=for-the-badge&color=58a6ff" alt="GitHub Followers"/>
-</p>
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ABOUT -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
----
+## 🧠 About Me
 
-## 🌌 About Me
+> **"I build tools that eliminate friction — from AI automation to real-time 3D shaders."**
 
-> **"I build things that look impossible in a browser."**
-
-I'm a creative developer specializing in cinematic 3D web experiences — scroll-driven camera narratives, real-time GLSL shaders, and atmospheric scenes that blur the line between game engine and website. I also build AI-powered developer tooling and multi-agent coding workflows.
+I'm a full-stack developer who bridges the gap between **practical utility** and **visual craft**. Whether it's a desktop video splitter, a browser shader studio, or an AI automation pipeline — I focus on shipping polished, performant tools.
 
 ```yaml
-Identity      : void (Vineet Kumar)
-Specialty     : Cinematic 3D web · GLSL shaders · Scroll-driven animation
-Core Stack    : Three.js · React Three Fiber · GSAP ScrollTrigger · GLSL · Vite
-AI Workflows  : Multi-agent orchestration with Claude · Gemini Flash · GPT
-Also Build    : Browser extensions · Desktop apps · Automation tools
-Location      : Usually behind a screen
+name:     Vineet Kumar
+alias:    void032
+focus:    [Full-Stack, AI Automation, GLSL/3D, Developer Tools]
+location: Behind a screen, shipping code
+stack:    [React, Three.js, Python, Node.js, GLSL]
 ```
 
-### 🎯 What I Do
-- 🎬 **Cinematic 3D Web** – Scroll-driven camera splines, atmospheric scenes, real-time shader systems
-- ⚡ **GLSL Shaders** – Custom ShaderMaterial, fresnel effects, FBM noise, procedural terrain generation
-- 🤖 **AI Coding Workflows** – Multi-agent orchestration with structured AGENTS.md systems and round-based task queues
-- 🔧 **Developer Tooling** – Browser extensions, PyQt6 desktop apps, CLI automation scripts
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:2DD4BF,100:0d1117&height=1"/>
 
----
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- FLAGSHIP PROJECT: SHADER STUDIO -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+## 🚀 Flagship Project
+
+<div align="center">
+
+  <a href="https://shader-studio-teal.vercel.app">
+    <img src="https://capsule-render.vercel.app/api?type=rect&height=80&text=⚡%20Universal%20Shader%20Studio&fontSize=34&color=0:0d1117,100:161b22&fontColor=2DD4BF&stroke=2DD4BF&strokeWidth=1" width="100%" />
+  </a>
+
+  <p><b>Browser-based GLSL editor — real-time, zero setup, open source.</b></p>
+
+  <a href="https://shader-studio-teal.vercel.app">
+    <img src="https://github.com/void032/shader-studio/raw/main/preview.png" width="90%" style="border-radius:12px; border:1px solid #30363d;" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Feature Pills -->
+  <img src="https://img.shields.io/badge/🏔️%20Procedural%20Terrain-Perlin%20%26%20Island-2DD4BF?style=flat-square&color=0d1117" />
+  <img src="https://img.shields.io/badge/📦%20GLB%20Upload-Drag%20%26%20Drop-2DD4BF?style=flat-square&color=0d1117" />
+  <img src="https://img.shields.io/badge/⚡%20Live%20GLSL-Vertex%20%2B%20Fragment-2DD4BF?style=flat-square&color=0d1117" />
+  <img src="https://img.shields.io/badge/📤%20Multi--Export-Three.js%20%7C%20R3F%20%7C%20WebGL-2DD4BF?style=flat-square&color=0d1117" />
+
+  <br/><br/>
+
+  <!-- Action Buttons -->
+  <a href="https://shader-studio-teal.vercel.app">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-161b22?style=for-the-badge&logoColor=2DD4BF" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/void032/shader-studio">
+    <img src="https://img.shields.io/badge/📂%20Source%20Code-161b22?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+</div>
+
+<details>
+<summary><b>🛠️ Tech Stack & Architecture</b></summary>
+<br>
+
+| Layer | Technology |
+|---|---|
+| **Renderer** | Three.js r168 |
+| **Framework** | React 18 + Vite 7 |
+| **Styling** | Tailwind CSS v3 + shadcn/ui |
+| **Shaders** | Raw GLSL (Vertex + Fragment) |
+| **Models** | GLTFLoader + BufferGeometryUtils |
+| **Terrain** | Custom Perlin Noise Implementation |
+| **Export** | Three.js · R3F · Raw GLSL · Vanilla WebGL |
+
+```
+src/
+├── components/
+│   ├── scene/          # Terrain, Primitive, GLB Controls
+│   ├── tabs/           # Scene | Shader | Export | Code
+│   └── ui/             # shadcn + custom components
+├── context/
+│   └── StudioContext   # Global state management
+├── hooks/
+│   ├── useThreeScene   # Scene lifecycle
+│   ├── useShaderCompiler
+│   ├── useTerrain      # Procedural generation
+│   └── useGLBLoader    # Model ingestion
+└── lib/
+    ├── shaderPresets   # Built-in GLSL templates
+    ├── codeTemplates   # Export generators
+    └── colorPresets    # Terrain themes
+```
+
+</details>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:2DD4BF,100:0d1117&height=1"/>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- OTHER PROJECTS -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+## 🧰 Other Projects
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">🎬 SplitKit</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&color=0d1117" />
+        <img src="https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white&color=0d1117" />
+      </p>
+      <p>Auto-split long videos with dual processing modes — Fast Copy (lossless) & Re-encode. Bundled with FFmpeg, ready-to-use installer.</p>
+      <p align="center"><sub><code>Desktop App</code> · <code>FFmpeg</code> · <code>Threading</code></sub></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🖼️ Image Downloader Pro</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white&color=0d1117" />
+        <img src="https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=google-chrome&logoColor=white&color=0d1117" />
+      </p>
+      <p>Intelligent bulk image downloader Chrome extension. Smart detection of &lt;img&gt;, CSS backgrounds, and lazy-loaded content with batch processing.</p>
+      <p align="center"><sub><code>Extension</code> · <code>Chrome APIs</code> · <code>Batch DL</code></sub></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🐍 Python Image Scraper</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&color=0d1117" />
+        <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white&color=0d1117" />
+      </p>
+      <p>Headless browser automation for authenticated image scraping. Uses existing Chrome profiles, handles lazy-loading, deduplicates, and organizes files.</p>
+      <p align="center"><sub><code>CLI Tool</code> · <code>Auth</code> · <code>Threading</code></sub></p>
+    </td>
+  </tr>
+</table>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:2DD4BF,100:0d1117&height=1"/>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- TECH STACK -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 ## 🛠️ Tech Stack
 
@@ -75,128 +209,71 @@ Location      : Usually behind a screen
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:2DD4BF,100:0d1117&height=1"/>
 
-## 🎯 Featured Projects
-
-### ⚡ Universal Shader Studio
-**Browser-Based GLSL Editor | React + Three.js**
-
-> Write shaders. See them live. Export anywhere.
-
-[![Universal Shader Studio Preview](https://github.com/void032/shader-studio/raw/main/preview.png)](https://shader-studio-teal.vercel.app)
-
-A real-time GLSL shader editor built for 3D developers who want a fast creative sandbox without leaving the browser. Write vertex + fragment shaders against procedural terrain, primitives, or your own `.glb` models — then export production-ready code in four formats. No setup. No backend.
-
-**Key Features:**
-- 🏔️ **Procedural Terrain** – Perlin & Island noise with adjustable resolution, height scale, octaves, and frequency
-- 📦 **GLB Drag-Drop** – Drag any `.glb` model into the scene — auto-centered, auto-scaled, geometry merged
-- ⚡ **Live GLSL Editor** – Vertex + fragment shader editing with syntax highlighting and built-in shader presets
-- 📤 **Multi-Format Export** – Three.js ShaderMaterial · R3F Component · Raw GLSL · Vanilla WebGL boilerplate
-- 🌈 **Terrain Color Presets** – Grassland, Rocky Mountain, Desert, Neon Cyber, Mars Red
-
-<p>
-  <a href="https://shader-studio-teal.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-Visit_App-22c55e?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://github.com/void032/shader-studio"><img src="https://img.shields.io/badge/Source-View_Repo-58a6ff?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
-**Tech Stack:** `Three.js r168` `React 18` `TypeScript` `GLSL` `Vite 7` `Tailwind` `shadcn/ui` `GLTFLoader` `Perlin Noise`
-
----
-
-### 🎬 J3DP — Cinematic 3D Portfolio
-**Scroll-Driven Camera Narrative | Vanilla JS + Three.js**
-
-A cinematic portfolio site built around a camera traveling a spline path through six atmospheric 3D scenes — each with its own lighting, fog density, and material identity. The camera is the storyteller.
-
-**Architecture Highlights:**
-- 🌌 **Sky System** – Custom ShaderMaterial on an inverted sphere; no skybox, full shader control
-- ☁️ **Cloud Clusters** – Sphere-cluster system with fresnel-based edge transparency
-- 🏔️ **Mountain Layer** – `mountain.glb` with scene textures + flat ShaderMaterial depth planes for parallax
-- 💨 **Scene Transitions** – Fog/smoke effects timed to scroll position
-- 🔒 **Hard Constraints** – No React, no OrbitControls, no EffectComposer, zero heap allocations in the RAF loop
-
-**Tech Stack:** `Three.js r160` `GSAP ScrollTrigger` `GLSL ShaderMaterial` `Vite` `Anime.js`
-
----
-
-### 🌍 The Wanderer — Open World R3F
-**Instanced Open-World Portfolio | React Three Fiber**
-
-A substantial open-world R3F portfolio featuring a fully walkable environment with custom LOD and manual GPU resource management — optimized from 1M+ triangles at unplayable framerates down to 30–40k at smooth performance.
-
-**Key Features:**
-- 🌿 **Grass System** – `MeshSurfaceSampler` placement with vertex-paint masking; procedural shader grass
-- 🎯 **Custom LOD** – Concentric instanced zones for geometry density control
-- 🔥 **FBM Flame Shaders** – Billboard-based campfire flame using fractional Brownian motion
-- 🎮 **Character Controller** – Full animation state machine with locomotion blending
-- 📦 **GPU Management** – Manual disposal, texture compression, geometry merging throughout
-
-**Tech Stack:** `React Three Fiber` `Three.js` `GLSL` `Instanced Meshes` `Custom LOD` `Texture Compression`
-
----
-
-### 🔧 Other Tools
-
-| Project | Stack | Description |
-|---|---|---|
-| 🎬 **SplitKit** | `Python · PyQt6 · FFmpeg` | Desktop video auto-splitter — dual processing modes (lossless + re-encode), bundled FFmpeg, auto-updater |
-| 🖼️ **Image Downloader Pro** | `JavaScript · Chrome APIs` | Bulk image downloader — captures `<img>` tags, CSS backgrounds, and lazy-loaded content |
-| 🤖 **AI Workflow Extension** | `JavaScript · Chrome APIs` | Token tracking, prompt optimizer, downloadable skill files for compressed AI replies |
-| 🐍 **Python Image Scraper** | `Python · Selenium` | Headless scraper using Chrome profile passthrough — auth-aware, lazy-load support, auto-dedup |
-
----
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- GITHUB ANALYTICS -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=void032&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=void032&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=void032&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=2DD4BF&text_color=c9d1d9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=void032&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=void032&theme=github-dark-blue&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=void032&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=2DD4BF&currStreakLabel=58a6ff" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=void032&theme=github-compact&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=void032&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=2DD4BF&point=58a6ff" />
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:2DD4BF,100:0d1117&height=1"/>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- CURRENTLY EXPLORING -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 ## 🔭 Currently Exploring
 
 ```mermaid
 graph LR
-    A[GLSL & Shaders] --> B[Cinematic 3D Web]
-    B --> C[AI Multi-Agent Workflows]
-    C --> D[Foundational Mathematics]
+    A[GLSL / 3D Web] --> B[AI Integration]
+    B --> C[Automation Tools]
+    C --> D[Full-Stack Apps]
     D --> A
 ```
 
-- 🎬 **J3DP** – Scroll-driven cinematic 3D portfolio (Vanilla JS + Three.js r160)
-- 🖼️ **Parallax Narrative** – Layered 2D/semi-3D assets with GSAP ScrollTrigger for a "final departure" scene
-- 🤖 **Multi-Agent Systems** – Structured AGENTS.md workflows; Gemini Flash as primary Three.js implementation agent
-- 📐 **Foundational Mathematics** – Self-studying from the ground up for deeper graphics programming
+- 🎨 **3D Web & Shaders** – Cinematic scroll-driven experiences with Three.js + GSAP + GLSL
+- 🤖 **AI-Powered Solutions** – Integrating LLMs into practical applications
+- ⚙️ **Process Automation** – Eliminating manual, repetitive tasks
+- 🛠️ **Developer Tools** – Creating utilities that ship fast and work clean
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:2DD4BF,100:0d1117&height=1"/>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- CONNECT -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 ## 🤝 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vineet-kumar-2ab15217b)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/void032)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vineetkumar1639@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=161b22)](https://www.linkedin.com/in/void032)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=161b22)](https://github.com/void032)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=161b22)](mailto:vineetkumar1639@gmail.com)
+[![Shader Studio](https://img.shields.io/badge/Shader%20Studio-Live-2DD4BF?style=for-the-badge&logo=threedotjs&logoColor=2DD4BF&color=161b22)](https://shader-studio-teal.vercel.app)
 
 </div>
 
----
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- FOOTER -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=140&section=footer&text=void032&fontSize=28&fontColor=58a6ff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=58a6ff&animation=twinkling" />
+  <p><i>💡 "The best code is the code that solves real problems efficiently."</i></p>
+  <img src="https://komarev.com/ghpvc/?username=void032&label=Profile%20Views&color=58a6ff&style=flat-square" />
 </div>
-
-<p align="center">
-  <i>💡 "The best 3D web experience is the one that makes people forget they're in a browser."</i>
-</p>
