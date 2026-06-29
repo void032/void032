@@ -67,7 +67,7 @@ stack:    [React, Three.js, Python, Node.js, GLSL]
   <p><b>Browser-based GLSL editor — real-time, zero setup, open source.</b></p>
 
   <a href="https://shader-studio-teal.vercel.app">
-    <img src="https://github.com/void032/shader-studio/raw/main/preview.png" width="90%" style="border-radius:12px; border:1px solid #30363d;" />
+    <img src="https://raw.githubusercontent.com/void032/shader-studio/main/preview.png" width="90%" style="border-radius:12px; border:1px solid #30363d;" />
   </a>
 
   <br/><br/>
