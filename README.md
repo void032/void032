@@ -45,9 +45,9 @@ I'm a full-stack developer who bridges the gap between **practical utility** and
 ```yaml
 name:     Vineet Kumar
 alias:    void032
-focus:    [Full-Stack, AI Automation, GLSL/3D, Developer Tools]
+focus:    Full-Stack, AI Automation, GLSL/3D, Developer Tools
 location: Behind a screen, shipping code
-stack:    [React, Three.js, Python, Node.js, GLSL]
+stack:    React, Three.js, Python, Node.js, GLSL
 ```
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:2DD4BF,100:0d1117&height=1"/>
