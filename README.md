@@ -217,8 +217,8 @@ src/
 
 ## 📊 GitHub Analytics
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=void032&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=2DD4BF&text_color=c9d1d9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=void032&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  <img height="180em" src="profile/stats.svg" />
+  <img height="180em" src="profile/top-langs.svg" />
 </div>
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=void032&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=2DD4BF&currStreakLabel=58a6ff" />
