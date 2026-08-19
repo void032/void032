@@ -217,8 +217,9 @@ src/
 
 ## 📊 GitHub Analytics
 
-
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=void032&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=2DD4BF&point=58a6ff" />
+</div>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:2DD4BF,100:0d1117&height=1"/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
