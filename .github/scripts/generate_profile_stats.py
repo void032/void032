@@ -102,17 +102,17 @@ def stats_svg(c, d):
     rows = [("contributions", d["total"]), ("commits", d["commits"]), ("pull requests", d["prs"]), ("issues", d["issues"]),
             ("stars earned", d["stars"]), ("public repos", d["repos"]), ("followers", d["followers"]),
             ("current streak", f"{cur}d"), ("longest streak", f"{longest}d")]
-    out = [label(c, 0, "~/VOID032/STATS"), label(c, 395, "LAST 12 MONTHS", "end"),
-           label(c, 430, "~/VOID032/LANGUAGES"), label(c, W, "BY CODE SIZE", "end"),
-           f'  <line x1="0" y1="32.5" x2="{W}" y2="32.5" stroke="{c["line"]}"/>']
-    y = 62
+    def sub(x, text, anchor="start"):
+        return f'  <text x="{x}" y="16" text-anchor="{anchor}" font-family="{MONO}" font-size="11" letter-spacing="2" fill="{c["dim"]}">{esc(text)}</text>'
+    out = [sub(0, "STATS"), sub(395, "LAST 12 MONTHS", "end"), sub(430, "LANGUAGES"), sub(W, "BY CODE SIZE", "end")]
+    y = 52
     for k, v in rows:
         out.append(f'  <text x="0" y="{y}" font-family="{MONO}" font-size="13" fill="{c["mute"]}">{esc(k)}</text>')
         out.append(f'  <text x="395" y="{y}" text-anchor="end" font-family="{MONO}" font-size="14" font-weight="700" fill="{c["fg"]}">{esc(str(v))}</text>')
         y += 25
     total = sum(v[0] for v in d["langs"].values()) or 1
     top = sorted(d["langs"].items(), key=lambda kv: -kv[1][0])[:7]
-    y = 62
+    y = 52
     for name, (size, color) in top:
         pct = size / total * 100
         out.append(f'  <circle cx="436" cy="{y-4}" r="4" fill="{color}"/>')
@@ -121,8 +121,8 @@ def stats_svg(c, d):
         out.append(f'  <rect x="570" y="{y-9}" width="{max(3, 190*pct/100):.1f}" height="6" rx="3" fill="{color}"/>')
         out.append(f'  <text x="{W}" y="{y}" text-anchor="end" font-family="{MONO}" font-size="12" fill="{c["mute"]}">{pct:.1f}%</text>')
         y += 25
-    H = 62 + 9 * 25 - 10
-    out.append(f'  <line x1="412.5" y1="46" x2="412.5" y2="{H-14}" stroke="{c["line"]}"/>')
+    H = 52 + 8 * 25 + 22
+    out.append(f'  <line x1="412.5" y1="4" x2="412.5" y2="{H-24}" stroke="{c["line"]}"/>')
     out.append(f'  <line x1="0" y1="{H-0.5}" x2="{W}" y2="{H-0.5}" stroke="{c["line"]}"/>')
     return svg(H, "\n".join(out))
 
@@ -133,16 +133,16 @@ def activity_svg(c, d):
         if not v: return 0
         r = v / mx
         return 1 if r <= .25 else 2 if r <= .5 else 3 if r <= .75 else 4
-    out = [label(c, 0, "~/VOID032/ACTIVITY"), label(c, W, f"{d['total']} CONTRIBUTIONS", "end"),
-           f'  <line x1="0" y1="32.5" x2="{W}" y2="32.5" stroke="{c["line"]}"/>']
+    out = []
     last_m = None
     for i, w in enumerate(weeks):
         m = dt.date.fromisoformat(w["contributionDays"][0]["date"]).strftime("%b")
         if m != last_m and i < n - 2:
-            out.append(f'  <text x="{i*pitch:.1f}" y="52" font-family="{MONO}" font-size="10" fill="{c["dim"]}">{m}</text>'); last_m = m
+            out.append(f'  <text x="{i*pitch:.1f}" y="14" font-family="{MONO}" font-size="10" fill="{c["dim"]}">{m}</text>'); last_m = m
         for day in w["contributionDays"]:
-            out.append(f'  <rect x="{i*pitch:.1f}" y="{62 + day["weekday"]*pitch:.1f}" width="{cell:.1f}" height="{cell:.1f}" rx="2.5" fill="{c["heat"][level(day["contributionCount"])]}"/>')
-    gy = 62 + 7 * pitch + 10
+            out.append(f'  <rect x="{i*pitch:.1f}" y="{24 + day["weekday"]*pitch:.1f}" width="{cell:.1f}" height="{cell:.1f}" rx="2.5" fill="{c["heat"][level(day["contributionCount"])]}"/>')
+    gy = 24 + 7 * pitch + 10
+    out.append(f'  <text x="0" y="{gy+9:.1f}" font-family="{MONO}" font-size="11" fill="{c["mute"]}">{d["total"]} contributions in the last 12 months</text>')
     sx = W - 36 - 5 * pitch
     out.append(f'  <text x="{sx-6:.1f}" y="{gy+9:.1f}" text-anchor="end" font-family="{MONO}" font-size="10" fill="{c["dim"]}">less</text>')
     for k in range(5):
@@ -153,9 +153,8 @@ def activity_svg(c, d):
     return svg(H, "\n".join(out))
 
 def placeholder_svg(c, title):
-    return svg(90, f'{label(c, 0, title)}\n  <line x1="0" y1="32.5" x2="{W}" y2="32.5" stroke="{c["line"]}"/>\n'
-               f'  <text x="0" y="62" font-family="{MONO}" font-size="13" fill="{c["mute"]}">awaiting first workflow run — Actions → Profile stats → Run workflow</text>\n'
-               f'  <line x1="0" y1="89.5" x2="{W}" y2="89.5" stroke="{c["line"]}"/>')
+    return svg(70, f'  <text x="0" y="30" font-family="{MONO}" font-size="13" fill="{c["mute"]}">awaiting first workflow run — Actions → Profile stats → Run workflow</text>\n'
+               f'  <line x1="0" y1="69.5" x2="{W}" y2="69.5" stroke="{c["line"]}"/>')
 
 def main():
     os.makedirs(OUT, exist_ok=True)
