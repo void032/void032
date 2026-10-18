@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 830 116" width="830" height="116" role="img" aria-label="Python Image Scraper">
+  <text x="0" y="28" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" font-weight="700"><tspan fill="#8250df">▸ </tspan><tspan fill="#1f2328">Python Image Scraper</tspan><tspan fill="#818b98" font-weight="400" font-size="12">   python-image-scraper/</tspan></text>
+  <text x="18" y="52" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#59636e" xml:space="preserve">Headless browser automation for authenticated image scraping. Reuses existing Chrome profiles,</text>
+  <text x="18" y="72" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#59636e" xml:space="preserve">handles lazy-loading, deduplicates, and organizes files.</text>
+  <text x="18" y="98" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#818b98" xml:space="preserve">#python  #selenium  #cli</text>
+  <line x1="0" y1="115.5" x2="830" y2="115.5" stroke="#d1d9e0"/>
+</svg>

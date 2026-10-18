@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 830 116" width="830" height="116" role="img" aria-label="SplitKit">
+  <text x="0" y="28" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" font-weight="700"><tspan fill="#8250df">▸ </tspan><tspan fill="#1f2328">SplitKit</tspan><tspan fill="#818b98" font-weight="400" font-size="12">   splitkit/</tspan></text>
+  <text x="18" y="52" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#59636e" xml:space="preserve">Auto-split long videos with dual processing modes — Fast Copy (lossless) and Re-encode. Bundled</text>
+  <text x="18" y="72" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#59636e" xml:space="preserve">with FFmpeg, ready-to-use installer.</text>
+  <text x="18" y="98" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#818b98" xml:space="preserve">#python  #pyqt6  #ffmpeg  #desktop app</text>
+  <line x1="0" y1="115.5" x2="830" y2="115.5" stroke="#d1d9e0"/>
+</svg>

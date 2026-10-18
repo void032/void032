@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 830 116" width="830" height="116" role="img" aria-label="Universal Shader Studio">
+  <text x="0" y="28" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" font-weight="700"><tspan fill="#d2a8ff">▸ </tspan><tspan fill="#f0f6fc">Universal Shader Studio</tspan><tspan fill="#6e7681" font-weight="400" font-size="12">   shader-studio/</tspan></text>
+  <text x="830" y="28" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#d2a8ff" xml:space="preserve">live ↗   source ↗</text>
+  <text x="18" y="52" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#8b949e" xml:space="preserve">Browser-based GLSL editor — real-time, zero setup, open source. Procedural terrain, GLB drag-</text>
+  <text x="18" y="72" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#8b949e" xml:space="preserve">and-drop, live vertex + fragment editing, multi-target export.</text>
+  <text x="18" y="98" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#6e7681" xml:space="preserve">#react  #three.js  #glsl</text>
+  <line x1="0" y1="115.5" x2="830" y2="115.5" stroke="#30363d"/>
+</svg>
