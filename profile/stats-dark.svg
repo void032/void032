@@ -1,6 +1,62 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 830 90" width="830" height="90" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 830 277" width="830" height="277" role="img">
   <text x="0" y="22" text-anchor="start" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" letter-spacing="2" fill="#6e7681">~/VOID032/STATS</text>
+  <text x="395" y="22" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" letter-spacing="2" fill="#6e7681">LAST 12 MONTHS</text>
+  <text x="430" y="22" text-anchor="start" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" letter-spacing="2" fill="#6e7681">~/VOID032/LANGUAGES</text>
+  <text x="830" y="22" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" letter-spacing="2" fill="#6e7681">BY CODE SIZE</text>
   <line x1="0" y1="32.5" x2="830" y2="32.5" stroke="#30363d"/>
-  <text x="0" y="62" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#8b949e">awaiting first workflow run — Actions → Profile stats → Run workflow</text>
-  <line x1="0" y1="89.5" x2="830" y2="89.5" stroke="#30363d"/>
+  <text x="0" y="62" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#8b949e">contributions</text>
+  <text x="395" y="62" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" font-weight="700" fill="#f0f6fc">254</text>
+  <text x="0" y="87" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#8b949e">commits</text>
+  <text x="395" y="87" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" font-weight="700" fill="#f0f6fc">132</text>
+  <text x="0" y="112" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#8b949e">pull requests</text>
+  <text x="395" y="112" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" font-weight="700" fill="#f0f6fc">25</text>
+  <text x="0" y="137" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#8b949e">issues</text>
+  <text x="395" y="137" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" font-weight="700" fill="#f0f6fc">0</text>
+  <text x="0" y="162" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#8b949e">stars earned</text>
+  <text x="395" y="162" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" font-weight="700" fill="#f0f6fc">14</text>
+  <text x="0" y="187" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#8b949e">public repos</text>
+  <text x="395" y="187" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" font-weight="700" fill="#f0f6fc">17</text>
+  <text x="0" y="212" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#8b949e">followers</text>
+  <text x="395" y="212" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" font-weight="700" fill="#f0f6fc">3</text>
+  <text x="0" y="237" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#8b949e">current streak</text>
+  <text x="395" y="237" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" font-weight="700" fill="#f0f6fc">4d</text>
+  <text x="0" y="262" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#8b949e">longest streak</text>
+  <text x="395" y="262" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" font-weight="700" fill="#f0f6fc">23d</text>
+  <circle cx="436" cy="58" r="4" fill="#e34c26"/>
+  <text x="448" y="62" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#f0f6fc">HTML</text>
+  <rect x="570" y="53" width="190" height="6" rx="3" fill="#30363d"/>
+  <rect x="570" y="53" width="57.8" height="6" rx="3" fill="#e34c26"/>
+  <text x="830" y="62" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#8b949e">30.4%</text>
+  <circle cx="436" cy="83" r="4" fill="#f1e05a"/>
+  <text x="448" y="87" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#f0f6fc">JavaScript</text>
+  <rect x="570" y="78" width="190" height="6" rx="3" fill="#30363d"/>
+  <rect x="570" y="78" width="56.3" height="6" rx="3" fill="#f1e05a"/>
+  <text x="830" y="87" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#8b949e">29.6%</text>
+  <circle cx="436" cy="108" r="4" fill="#3178c6"/>
+  <text x="448" y="112" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#f0f6fc">TypeScript</text>
+  <rect x="570" y="103" width="190" height="6" rx="3" fill="#30363d"/>
+  <rect x="570" y="103" width="34.3" height="6" rx="3" fill="#3178c6"/>
+  <text x="830" y="112" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#8b949e">18.0%</text>
+  <circle cx="436" cy="133" r="4" fill="#c6538c"/>
+  <text x="448" y="137" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#f0f6fc">SCSS</text>
+  <rect x="570" y="128" width="190" height="6" rx="3" fill="#30363d"/>
+  <rect x="570" y="128" width="26.9" height="6" rx="3" fill="#c6538c"/>
+  <text x="830" y="137" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#8b949e">14.1%</text>
+  <circle cx="436" cy="158" r="4" fill="#663399"/>
+  <text x="448" y="162" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#f0f6fc">CSS</text>
+  <rect x="570" y="153" width="190" height="6" rx="3" fill="#30363d"/>
+  <rect x="570" y="153" width="12.2" height="6" rx="3" fill="#663399"/>
+  <text x="830" y="162" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#8b949e">6.4%</text>
+  <circle cx="436" cy="183" r="4" fill="#3572A5"/>
+  <text x="448" y="187" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#f0f6fc">Python</text>
+  <rect x="570" y="178" width="190" height="6" rx="3" fill="#30363d"/>
+  <rect x="570" y="178" width="3.0" height="6" rx="3" fill="#3572A5"/>
+  <text x="830" y="187" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#8b949e">1.3%</text>
+  <circle cx="436" cy="208" r="4" fill="#89e051"/>
+  <text x="448" y="212" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#f0f6fc">Shell</text>
+  <rect x="570" y="203" width="190" height="6" rx="3" fill="#30363d"/>
+  <rect x="570" y="203" width="3.0" height="6" rx="3" fill="#89e051"/>
+  <text x="830" y="212" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#8b949e">0.1%</text>
+  <line x1="412.5" y1="46" x2="412.5" y2="263" stroke="#30363d"/>
+  <line x1="0" y1="276.5" x2="830" y2="276.5" stroke="#30363d"/>
 </svg>
