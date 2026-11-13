@@ -17,6 +17,7 @@
 
 <img src="https://hits.sh/github.com/void032.svg?style=flat-square&label=PROFILE%20VIEWS&color=161b22&labelColor=161b22" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/void032?style=flat-square&color=161b22&logo=github&logoColor=58a6ff&label=FOLLOWERS&labelColor=161b22" alt="Followers" />
+<a href="https://utilanto.com"><img src="https://img.shields.io/badge/UTILANTO-LIVE-161b22?style=flat-square&color=161b22&labelColor=161b22" alt="Utilanto - free browser tools" /></a>
 <a href="https://shader-studio-teal.vercel.app"><img src="https://img.shields.io/badge/SHADER%20STUDIO-LIVE-161b22?style=flat-square&logo=threedotjs&logoColor=2DD4BF&labelColor=161b22" alt="Shader Studio" /></a>
 <a href="https://www.linkedin.com/in/void032"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-161b22?style=flat-square&logo=linkedin&logoColor=0077B5&labelColor=161b22" alt="LinkedIn" /></a>
 
@@ -42,6 +43,13 @@
   <source media="(prefers-color-scheme: light)" srcset="assets/sec-projects-light.svg">
   <img src="assets/sec-projects-dark.svg" alt="Projects" width="100%">
 </picture>
+<a href="https://utilanto.com">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/project5-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/project5-light.svg">
+  <img src="assets/project5-dark.svg" alt="Utilanto - free browser-based tools (word counter, EMI calculator, image compressor)" width="100%">
+</picture>
+</a>
 <a href="https://github.com/void032/shader-studio">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/project1-dark.svg">
@@ -108,6 +116,8 @@ src/
 
 </details>
 
+<p align="center"><a href="https://utilanto.com">utilanto.com</a> - free browser-based tools</p>
+
 <br>
 
 <picture>
@@ -166,28 +176,35 @@ src/
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/btn-linkedin-light.svg">
-  <img src="assets/btn-linkedin-dark.svg" alt="LinkedIn" width="195">
+  <img src="assets/btn-linkedin-dark.svg" alt="LinkedIn" width="165">
 </picture>
 </a>
 <a href="https://github.com/void032">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/btn-github-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/btn-github-light.svg">
-  <img src="assets/btn-github-dark.svg" alt="GitHub" width="195">
+  <img src="assets/btn-github-dark.svg" alt="GitHub" width="165">
 </picture>
 </a>
 <a href="mailto:vineetkumar1639@gmail.com">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/btn-email-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/btn-email-light.svg">
-  <img src="assets/btn-email-dark.svg" alt="Email" width="195">
+  <img src="assets/btn-email-dark.svg" alt="Email" width="165">
 </picture>
 </a>
 <a href="https://shader-studio-teal.vercel.app">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/btn-shader-studio-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/btn-shader-studio-light.svg">
-  <img src="assets/btn-shader-studio-dark.svg" alt="Shader Studio" width="195">
+  <img src="assets/btn-shader-studio-dark.svg" alt="Shader Studio" width="165">
+</picture>
+</a>
+<a href="https://utilanto.com">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/btn-utilanto-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/btn-utilanto-light.svg">
+  <img src="assets/btn-utilanto-dark.svg" alt="Utilanto - free browser tools" width="165">
 </picture>
 </a>
 
